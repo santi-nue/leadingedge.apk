@@ -4,7 +4,7 @@ android {
     compileSdkVersion 33
 
     defaultConfig {
-        applicationId "org.asafonov.app"
+        applicationId "org.leadingedge.app"
         minSdkVersion 21
         targetSdkVersion 33
         versionCode 1
